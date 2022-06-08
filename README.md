@@ -2,7 +2,9 @@
 
 ## Anotações curso Git e Github
 
-==Links úteis==:
+**Links úteis:**
 
-[**Guia Markdown:**](https://www.markdownguide.org)
-[**Emoji Mart >> Markdown emojis:**](https://missiveapp.com/open/emoji-mart)
+*[**Guia Markdown**](https://www.markdownguide.org)
+
+*[**Emoji Mart >> Markdown emojis**](https://missiveapp.com/open/emoji-mart)
+
