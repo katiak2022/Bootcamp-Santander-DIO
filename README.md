@@ -1,6 +1,6 @@
 # bootcamp-santander-dio
 
-##Anotações curso Git e Github
+## Anotações curso Git e Github
 
 Links úteis:
 
